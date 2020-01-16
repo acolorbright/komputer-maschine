@@ -46,6 +46,7 @@ sh macos 2>&1 | tee ~/komputer-maschine.log
 * [Google Chrome](https://www.google.com/chrome/) for browsing the web and testing.
 * [Notion](https://notion.so/) to share knowledge with colleagues.
 * [Slack](https://slack.com/) for more team communication and less email.
+* [Sonos](https://www.sonos.com/) for playing music over the office speakers.
 * [Spotify](https://www.spotify.com/) for music.
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) for extracting archives that are not supported by macOS out of the box.
 

@@ -76,6 +76,7 @@ komputer_echo "Installing services..."
 brew bundle --file=- <<EOF
 tap "homebrew/services"
 tap "homebrew/cask"
+tap "homebrew/cask-drivers"
 tap "heroku/brew"
 
 # Unix
@@ -107,6 +108,7 @@ applications=(
   google-chrome
   notion
   slack
+  sonos
   spotify
   the-unarchiver
 )
