@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# Forked from https://github.com/laurendorman/komputer-maschine
-
 komputer_echo() {
   local fmt="$1"; shift
 
@@ -103,19 +101,13 @@ fi
 applications=(
   1password
   alfred
-  atom
   docker
   dropbox
   firefox
   google-chrome
-  hyper
   notion
-  remember-the-milk
   slack
-  sourcetree
   spotify
-  sublime-text
-  thefuck
   the-unarchiver
 )
 

@@ -13,7 +13,7 @@ This script can be run once or as many times as you'd like. It installs everythi
 ## Install
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/heldinz/komputer-maschine/master/macos
+curl --remote-name https://raw.githubusercontent.com/acolorbright/komputer-maschine/master/macos
 sh macos 2>&1 | tee ~/komputer-maschine.log
 ```
 
@@ -40,19 +40,13 @@ sh macos 2>&1 | tee ~/komputer-maschine.log
 
 * [1Password](https://1password.com/) as a secure password manager.
 * [Alfred](https://www.alfredapp.com/) for increased productivity and efficiency with macOS.
-* [Atom](https://atom.io/) as a code editor.
 * [Docker](https://www.docker.com/) for building, shipping and running applications.
 * [Dropbox](https://www.dropbox.com/) for storing and sharing files.
 * [Firefox](https://www.mozilla.org/de/firefox/developer/) for browsing the web and testing.
 * [Google Chrome](https://www.google.com/chrome/) for browsing the web and testing.
-* [Hyper](https://hyper.is/) for a better terminal.
 * [Notion](https://notion.so/) to share knowledge with colleagues.
-* [Remember the Milk](https://www.rememberthemilk.com/) as a to-do list.
 * [Slack](https://slack.com/) for more team communication and less email.
-* [Sourcetree](https://www.sourcetreeapp.com/) because sometimes Git needs a GUI.
 * [Spotify](https://www.spotify.com/) for music.
-* [Sublime Text](https://www.sublimetext.com/) as a scratchpad.
-* [The Fuck](https://github.com/nvbn/thefuck) to correct your previous console command.
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) for extracting archives that are not supported by macOS out of the box.
 
 ## Debugging
@@ -60,7 +54,7 @@ sh macos 2>&1 | tee ~/komputer-maschine.log
 The log of your script, successful or not, will be saved to `~/komputer-maschine.log`.
 
 Read through it to see if you can debug the issue yourself.
-If not, report where the script failed into a [new GitHub Issue](https://github.com/heldinz/komputer-maschine/issues/new).
+If not, report where the script failed into a [new GitHub Issue](https://github.com/acolorbright/komputer-maschine/issues/new).
 
 ## Known Issues
 
@@ -68,8 +62,8 @@ Cask does not recognize applications installed outside of Homebrew Cask – in t
 
 ## License
 
-© 2020 Alice Rose and licensed under the [MIT License](LICENSE).
+© 2020 A Color Bright and licensed under the [MIT License](LICENSE).
 
 ## Credits and inspiration
 
-Forked from Lauren Dorman's [komputer maschine](https://github.com/laurendorman/komputer-maschine).
+Forked from https://github.com/heldinz/komputer-maschine which is heavily based on Lauren Dorman's [komputer maschine](https://github.com/laurendorman/komputer-maschine).
