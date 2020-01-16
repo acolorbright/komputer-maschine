@@ -42,6 +42,7 @@ sh macos 2>&1 | tee ~/komputer-maschine.log
 * [Alfred](https://www.alfredapp.com/) for increased productivity and efficiency with macOS.
 * [Docker](https://www.docker.com/) for building, shipping and running applications.
 * [Dropbox](https://www.dropbox.com/) for storing and sharing files.
+* [Figma](https://www.figma.com/) for editing and viewing designs.
 * [Firefox](https://www.mozilla.org/de/firefox/developer/) for browsing the web and testing.
 * [Google Chrome](https://www.google.com/chrome/) for browsing the web and testing.
 * [Notion](https://notion.so/) to share knowledge with colleagues.

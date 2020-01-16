@@ -104,6 +104,7 @@ applications=(
   alfred
   docker
   dropbox
+  figma
   firefox
   google-chrome
   notion
