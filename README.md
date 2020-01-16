@@ -34,7 +34,7 @@ sh macos 2>&1 | tee ~/komputer-maschine.log
 **Programming languages and configuration:**
 
 * [Node.js](http://nodejs.org/) and [npm](https://www.npmjs.org/) for running applications and installing JavaScript packages.
-* [Python 3](https://www.python.org/) for an up-to-date Python install.
+* [Python 3](https://github.com/sstephenson/rbenv) for an up-to-date Python install.
 
 **Applications:**
 
